@@ -14,8 +14,8 @@
        WARNING!
 ```
 
-| Frequency     | Mode    | Subtone | Domain         | Alias   | Region         |
-| ------------- | ------- | ------- | -------------- | ------- | -------------- |
-| 156.800 MHz   | FM      |         | Maritime       | CH16    | International  |
-| 156.525 MHz   | Digital (DSC) |   | Maritime       | CH70    | International  |
-| 446.08125 MHz | FM      | 85.4 Hz | Hiking         | PMR7-7  | Spain          |
+| Frequency     | Mode    | Subtone | Domain         | Alias | Region         |
+| ------------- | ------- | ------- | -------------- | ----- | -------------- |
+| 156.800 MHz   | FM      |         | Maritime       | CH16  | International  |
+| 156.525 MHz   | Digital (DSC) |   | Maritime       | CH70  | International  |
+| 446.08125 MHz | FM      | 85.4 Hz | Hiking         | PMR  | Spain  |
