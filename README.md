@@ -10,7 +10,7 @@
     //      ██      \\      The following information might not be accurate
    //                \\     or applicable to your region. Use it at your own
   //==================\\    risk.
-                                                                      EA7KKE
+                                                                      EA7RCT
          WARNING!
 ```
 
