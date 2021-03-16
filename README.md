@@ -1,17 +1,17 @@
 ```
-          /\            You might require a special permit, license,
-         //\\           or acreditation to transmit in some or all
-        //  \\          of the following frequencies depending on
-       //    \\         your region's legislation. Act responsibly.
-      //  ██  \\       
-     //   ██   \\       The following information is only intended for
-    //    ██    \\      educational purposes. Please make sure to
-   //            \\     double-check them against trusted and updated
-  //      ██      \\    sources. Again: the following information might
- //                \\   not be reliable or applicable to your region,
-//==================\\  use it at your own risk.
-                                                                 EA7KKE
-       WARNING!
+            /\              You might require a special permit, license, or
+           //\\             acreditation to transmit in some or all of the
+          //  \\            following frequencies depending on your region's
+         //    \\           legislation. Act responsibly.
+        //  ▄▄  \\       
+       //   ██   \\         The following information is only intended for
+      //    ██    \\        educational purposes. Please make sure to double
+     //     ▀▀     \\       check them against trusted and updated sources.
+    //      ▄▄      \\      The following information might not be accurate
+   //       ▀▀       \\     or applicable to your region. Use it at your own
+  //==================\\    risk.
+                                                                      EA7KKE
+         WARNING!
 ```
 
 | Frequency     | Mode    | Subtone | Domain         | Alias   | Region         |
