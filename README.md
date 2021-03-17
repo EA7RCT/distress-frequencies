@@ -16,6 +16,7 @@
 
 | Frequency     | Mode    | Subtone | Domain         | Alias   | Region         |  Comment         |
 | ------------- | ------- | ------- | -------------- | ------- | -------------- | ---------------- |
+| 2.182 MHz     | USB?    |         | Maritime       | HF4     | International  |                  |
 | 4.125 MHz     | USB?    |         | Maritime       | HF4     | International  |                  |
 | 6.215 MHz     | USB?    |         | Maritime       | HF6     | International  |                  |
 | 8.291 MHz     | USB?    |         | Maritime       | HF8     | International  |                  |
