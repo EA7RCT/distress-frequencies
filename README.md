@@ -4,12 +4,12 @@
           //  \\            following frequencies depending on your region's
          //    \\           legislation. Act responsibly.
         //  ██  \\
-       //   ██   \\         The following information is only intended for
-      //    ██    \\        educational purposes. Please make sure to double
-     //            \\       check them against trusted and updated sources.
-    //      ██      \\      The following information might not be accurate
-   //                \\     or applicable to your region. Use it at your own
-  //==================\\    risk.
+       //   ██   \\         The following information is intended for
+      //    ██    \\        educational purposes only. Please make sure to
+     //            \\       double-check them against trusted and updated
+    //      ██      \\      sources. The following information might not be
+   //                \\     accurate or applicable to your region. Use it at
+  //==================\\    your own risk.
                                                                       EA7RCT
          WARNING!
 ```
