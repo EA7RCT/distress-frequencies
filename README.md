@@ -1,16 +1,16 @@
 ```
-            /\              You might require a special permit, license, or
-           //\\             acreditation to transmit in some or all of the
-          //  \\            following frequencies depending on your region's
+            /\
+           //\\             You might require a special permit, license, or acreditation to transmit
+          //  \\            in some or all of the following frequencies depending on your region's
          //    \\           legislation. Act responsibly.
         //  ██  \\
-       //   ██   \\         The following information is intended for
-      //    ██    \\        educational purposes only. Please make sure to
-     //            \\       double-check them against trusted and updated
-    //      ██      \\      sources. The following information might not be
-   //                \\     accurate or applicable to your region. Use it at
-  //==================\\    your own risk.
-                                                                      EA7RCT
+       //   ██   \\         The following information is intended for educational purposes only.
+      //    ██    \\        Please make sure to double-check any entry against a trusted and updated
+     //            \\       authoritative source. The following information might not be accurate or
+    //      ██      \\      applicable to your region. Use it at your own risk.
+   //                \\                                                                       EA7RCT
+  //==================\\
+
          WARNING!
 ```
 
