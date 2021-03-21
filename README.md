@@ -1,8 +1,8 @@
 ```
             /\
-           //\\             You might require a special permit, license, or accreditation to transmit
-          //  \\            in some or all of the following frequencies depending on your region's
-         //    \\           legislation. Act responsibly.
+           //\\             You might require a special permit, license, or accreditation to
+          //  \\            transmit in some or all of the following frequencies depending on your
+         //    \\           region's legislation. Act responsibly.
         //  ██  \\
        //   ██   \\         The following information is intended for educational purposes only.
       //    ██    \\        Please make sure to double-check any entry against a trusted and updated
