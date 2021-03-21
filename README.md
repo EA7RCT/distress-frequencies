@@ -14,29 +14,6 @@
          WARNING!
 ```
 
-```
-         !: Indicates usually well-monitored or active frequencies (!: a lot / *: somewhat).
- Frequency: Channel frequency or digital radio channel.
-      Mode: Modulation, subtones, encoding, etc.
-    Domain: Application domain or channel atribution.
-     Alias: Common name of the frequency/channel.
-    Region: Where the frequency is monitored.
-   Comment: Any other relevant considerations.
-
-
-Comments:
-* Frequencies are roughly sorted by domain from more to less monitored for emergencies.
-* Within a domain, frequencies are sorted from low to high.
-
-
-Recommendations:
-* Memorize the emergency phone number of the area(s) you will be traveling. Outside the aeronautical
-  or maritime domain it is usually better to use your phone (if available).
-* State your location before your emergency. If communication breaks, its more important for
-  rescuers to know where to find you than to know what is going on.
-* If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are well monitored, but
-  remember that they usually have different TX and RX frequencies and may also require a subtone.
-```
 
 | ! | Frequency     | Mode                   | Domain       | Alias   | Region         | Comment   |
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
@@ -62,3 +39,28 @@ Recommendations:
 |   | 21.360 MHz    | USB                    | Amateur 15m  |         | International? | Not exlcusive, only recommended |
 |   | 145.550 MHz   | FM                     | Amateur 2m   |         | International? | Not exlcusive, only recommended |
 |   | 433.550 MHz   | FM                     | Amateur 70cm |         | International? | Not exlcusive, only recommended |
+
+
+```
+         !: Indicates usually well-monitored or active frequencies (!: a lot / *: somewhat).
+ Frequency: Channel frequency or digital radio channel.
+      Mode: Modulation, subtones, encoding, etc.
+    Domain: Application domain or channel atribution.
+     Alias: Common name of the frequency/channel.
+    Region: Where the frequency is monitored.
+   Comment: Any other relevant considerations.
+
+
+Comments:
+* Frequencies are roughly sorted by domain from more to less monitored for emergencies.
+* Within a domain, frequencies are sorted from low to high.
+
+
+Recommendations:
+* Memorize the emergency phone number of the area(s) you will be traveling. Outside the aeronautical
+  or maritime domain it is usually better to use your phone (if available).
+* State your location before your emergency. If communication breaks, its more important for
+  rescuers to know where to find you than to know what is going on.
+* If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are well monitored, but
+  remember that they usually have different TX and RX frequencies and may also require a subtone.
+```
