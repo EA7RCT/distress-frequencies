@@ -27,7 +27,7 @@
 |   | 16.420 MHz    | USB?                   | Maritime     | HF16    | International  |           |
 | ! | 156.525 MHz   | Digital (DSC)          | Maritime     | CH70    | International  |           |
 | ! | 156.800 MHz   | FM                     | Maritime     | CH16    | International  |           |
-|   | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de radio emergencias del Ministerio del Interior |
+|   | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de Radio Emergencias del Ministerio del Interior |
 |   | 27.065 MHz    | AM (& FM?)             | Citizen band | CB-CH9  | International  | Not exlcusive, only recommended |
 | * | 27.185 MHz    | AM & FM                | Citizen band | CB-CH19 | International  | Road and trucker channel |
 |   | 446.00625 MHz | FM + CTCSS-12 (100 Hz) | PMR (Generic)| PMR1-12 | Spain          | 1-12 = 112 = Spanish emergency phone number |
