@@ -14,6 +14,16 @@
          WARNING!
 ```
 
+```
+         !: Indicates usually well-monitored or active frequencies (!: a lot / *: somewhat).
+ Frequency: Channel frequency or digital radio channel.
+      Mode: Modulation, subtones, encoding, etc.
+    Domain: Application domain or channel atribution.
+     Alias: Common name of the frequency/channel.
+    Region: Where the frequency is monitored.
+   Comment: Any other relevant considerations.
+```
+
 | ! | Frequency     | Mode                   | Domain       | Alias   | Region         | Comment   |
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 2.182 MHz     | USB?                   | Maritime     | HF4     | International  |           |
