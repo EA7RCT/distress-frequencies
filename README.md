@@ -42,7 +42,6 @@ Recommendations:
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 | ! | 121.5 MHz     | FM                     | Aeronautical | IAD     | International  | International Air Distress |
 |   | 243.0 MHz     | FM                     | Aeronautical | MAD     | International  | Military Air Distress |
-| - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 2.182 MHz     | USB?                   | Maritime     | HF4     | International  |           |
 |   | 4.125 MHz     | USB?                   | Maritime     | HF4     | International  |           |
 |   | 6.215 MHz     | USB?                   | Maritime     | HF6     | International  |           |
@@ -51,15 +50,11 @@ Recommendations:
 |   | 16.420 MHz    | USB?                   | Maritime     | HF16    | International  |           |
 | ! | 156.525 MHz   | Digital (DSC)          | Maritime     | CH70    | International  |           |
 | ! | 156.800 MHz   | FM                     | Maritime     | CH16    | International  |           |
-| - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de radio emergencias del Ministerio del Interior |
-| - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 27.065 MHz    | AM (& FM?)             | Citizen band | CB-CH9  | International  | Not exlcusive, only recommended |
 | * | 27.185 MHz    | AM & FM                | Citizen band | CB-CH19 | International  | Road and trucker channel |
-| - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 446.00625 MHz | FM + CTCSS-12 (100 Hz) | PMR (Generic)| PMR1-12 | Spain          | 1-12 = 112 = Spanish emergency phone number |
 |   | 446.08125 MHz | FM + CTCSS-7 (85.4 Hz) | PMR (Hiking) | PMR7-7  | Spain          |           |
-| - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 |   | 3.760 MHz     | LSB                    | Amateur 80m  |         | International? | Not exlcusive, only recommended |
 |   | 7.110 MHz     | LSB                    | Amateur 40m  |         | International? | Not exlcusive, only recommended |
 |   | 14.300 MHz    | USB                    | Amateur 20m  |         | International? | Not exlcusive, only recommended |
