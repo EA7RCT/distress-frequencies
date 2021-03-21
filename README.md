@@ -1,6 +1,6 @@
 ```
             /\
-           //\\             You might require a special permit, license, or acreditation to transmit
+           //\\             You might require a special permit, license, or accreditation to transmit
           //  \\            in some or all of the following frequencies depending on your region's
          //    \\           legislation. Act responsibly.
         //  ██  \\
@@ -32,20 +32,20 @@
 | * | 27.185 MHz    | AM & FM                | Citizen band | CB-CH19 | International  | Road and trucker channel |
 |   | 446.00625 MHz | FM + CTCSS-12 (100 Hz) | PMR (Generic)| PMR1-12 | Spain          | 1-12 = 112 = Spanish emergency phone number |
 |   | 446.08125 MHz | FM + CTCSS-7 (85.4 Hz) | PMR (Hiking) | PMR7-7  | Spain          |           |
-|   | 3.760 MHz     | LSB                    | Amateur 80m  |         | International? | Not exlcusive, only recommended |
-|   | 7.110 MHz     | LSB                    | Amateur 40m  |         | International? | Not exlcusive, only recommended |
-|   | 14.300 MHz    | USB                    | Amateur 20m  |         | International? | Not exlcusive, only recommended |
-|   | 18.160 MHz    | USB                    | Amateur 17m  |         | International? | Not exlcusive, only recommended |
-|   | 21.360 MHz    | USB                    | Amateur 15m  |         | International? | Not exlcusive, only recommended |
-|   | 145.550 MHz   | FM                     | Amateur 2m   |         | International? | Not exlcusive, only recommended |
-|   | 433.550 MHz   | FM                     | Amateur 70cm |         | International? | Not exlcusive, only recommended |
+|   | 3.760 MHz     | LSB                    | Amateur 80m  |         | International? | Not exclusive, only recommended |
+|   | 7.110 MHz     | LSB                    | Amateur 40m  |         | International? | Not exclusive, only recommended |
+|   | 14.300 MHz    | USB                    | Amateur 20m  |         | International? | Not exclusive, only recommended |
+|   | 18.160 MHz    | USB                    | Amateur 17m  |         | International? | Not exclusive, only recommended |
+|   | 21.360 MHz    | USB                    | Amateur 15m  |         | International? | Not exclusive, only recommended |
+|   | 145.550 MHz   | FM                     | Amateur 2m   |         | International? | Not exclusive, only recommended |
+|   | 433.550 MHz   | FM                     | Amateur 70cm |         | International? | Not exclusive, only recommended |
 
 
 ```
          !: Indicates usually well-monitored or active frequencies (!: a lot / *: somewhat).
  Frequency: Channel frequency or digital radio channel.
       Mode: Modulation, subtones, encoding, etc.
-    Domain: Application domain or channel atribution.
+    Domain: Application domain or channel attribution.
      Alias: Common name of the frequency/channel.
     Region: Where the frequency is monitored.
    Comment: Any other relevant considerations.
