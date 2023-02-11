@@ -27,14 +27,17 @@
 |   | 16.420 MHz    | USB?                   | Maritime     | HF16    | International  |           |
 | ! | 156.525 MHz   | Digital (DSC)          | Maritime     | CH70    | International  |           |
 | ! | 156.800 MHz   | FM                     | Maritime     | CH16    | International  |           |
-|   | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de Radio Emergencias del Ministerio del Interior |
+| * | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de Radio Emergencias del Ministerio del Interior + Protección Civil |
 |   | 27.065 MHz    | AM (& FM?)             | Citizen band | CB-CH9  | International  | Not exlcusive, only recommended |
 | * | 27.185 MHz    | AM & FM                | Citizen band | CB-CH19 | International  | Road and trucker channel |
 |   | 446.00625 MHz | FM + CTCSS-12 (100 Hz) | PMR (Generic)| PMR1-12 | Spain          | 1-12 = 112 = Spanish emergency phone number |
-|   | 446.08125 MHz | FM + CTCSS-7 (85.4 Hz) | PMR (Hiking) | PMR7-7  | Spain          |           |
+|   | 446.08125 MHz | FM + CTCSS-7 (85.4 Hz) | PMR (Hiking) | PMR7-7  | Spain          |  |
+|   | 3.8025 MHz    | USB                    | Gov 80m      |         | Spain          |  |
 |   | 3.760 MHz     | LSB                    | Amateur 80m  |         | International? | Not exclusive, only recommended |
 |   | 7.110 MHz     | LSB                    | Amateur 40m  |         | International? | Not exclusive, only recommended |
+|   | 6.9915 MHz    | USB                    | Gov  40m     |         | Spain          | Protección Civil |
 |   | 14.300 MHz    | USB                    | Amateur 20m  |         | International? | Not exclusive, only recommended |
+|   | 13.987 MHz    | USB                    | Gov  20m     |         | Spain          | Protección Civil |
 |   | 18.160 MHz    | USB                    | Amateur 17m  |         | International? | Not exclusive, only recommended |
 |   | 21.360 MHz    | USB                    | Amateur 15m  |         | International? | Not exclusive, only recommended |
 |   | 145.550 MHz   | FM                     | Amateur 2m   |         | International? | Not exclusive, only recommended |
@@ -42,7 +45,7 @@
 
 
 ```
-         !: Indicates usually well-monitored or active frequencies (!: a lot / *: somewhat).
+         !: Usually well-monitored or active frequencies (!: a lot / *: somewhat).
  Frequency: Channel frequency or digital radio channel.
       Mode: Modulation, subtones, encoding, etc.
     Domain: Application domain or channel attribution.
