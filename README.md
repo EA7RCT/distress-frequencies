@@ -19,12 +19,12 @@
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
 | ! | 121.5 MHz     | FM                     | Aeronautical | IAD     | International  | International Air Distress |
 |   | 243.0 MHz     | FM                     | Aeronautical | MAD     | International  | Military Air Distress |
-|   | 2.182 MHz     | USB?                   | Maritime     | HF2     | International  |           |
-|   | 4.125 MHz     | USB?                   | Maritime     | HF4     | International  |           |
-|   | 6.215 MHz     | USB?                   | Maritime     | HF6     | International  |           |
-|   | 8.291 MHz     | USB?                   | Maritime     | HF8     | International  |           |
-|   | 12.290 MHz    | USB?                   | Maritime     | HF12    | International  |           |
-|   | 16.420 MHz    | USB?                   | Maritime     | HF16    | International  |           |
+|   | 2.182 MHz     | USB                    | Maritime     | HF2     | International  |           |
+|   | 4.125 MHz     | USB                    | Maritime     | HF4     | International  |           |
+|   | 6.215 MHz     | USB                    | Maritime     | HF6     | International  |           |
+|   | 8.291 MHz     | USB                    | Maritime     | HF8     | International  |           |
+|   | 12.290 MHz    | USB                    | Maritime     | HF12    | International  |           |
+|   | 16.420 MHz    | USB                    | Maritime     | HF16    | International  |           |
 | ! | 156.525 MHz   | Digital (DSC)          | Maritime     | CH70    | International  |           |
 | ! | 156.800 MHz   | FM                     | Maritime     | CH16    | International  |           |
 | * | 146.175 MHz   | FM                     | Gov          | REMER   | Spain          | Red de Radio Emergencias del Ministerio del Interior + Protección Civil |
