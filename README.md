@@ -54,16 +54,11 @@
    Comment: Any other relevant considerations.
 
 
-Comments:
-* Frequencies are roughly sorted by domain from more to less monitored for emergencies.
-* Within a domain, frequencies are sorted from low to high.
-
-
 Recommendations:
 * Memorize the emergency phone number of the area(s) you will be traveling. Outside the aeronautical
   or maritime domain it is usually better to use your phone (if available).
 * State your location before your emergency. If communication breaks, its more important for
-  rescuers to know where to find you than to know what is going on.
+  rescuers to know where to find you than to know what you need.
 * If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are well monitored, but
   remember that they usually have different TX and RX frequencies and may also require a subtone.
 ```
