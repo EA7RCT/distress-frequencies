@@ -16,8 +16,8 @@
 
 | ! | Frequency     | Mode                   | Domain       | Alias   | Region         | Comment   |
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
-| ! | 121.5 MHz     | FM                     | Aeronautical | IAD     | International  | International Air Distress |
-|   | 243.0 MHz     | FM                     | Aeronautical | MAD     | International  | Military Air Distress |
+| ! | 121.5 MHz     | AM                     | Aeronautical | IAD     | International  | International Air Distress |
+|   | 243.0 MHz     | AM                     | Aeronautical | MAD     | International  | Military Air Distress |
 |   | 2.182 MHz     | USB                    | Maritime     | HF2     | International  |           |
 |   | 4.125 MHz     | USB                    | Maritime     | HF4     | International  |           |
 |   | 6.215 MHz     | USB                    | Maritime     | HF6     | International  |           |
