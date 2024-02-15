@@ -1,19 +1,18 @@
 ```
-            /\
-           //\\             You might require a special permit, license, or accreditation to
-          //  \\            transmit or listen to some or all of the following frequencies
-         //    \\           depending on your region's legislation. Act responsibly.
+            /\              Depending on your location, transmitting or
+           //\\             listening on some or all of these frequencies may
+          //  \\            require a permit, license, or accreditation. Always
+         //    \\           check your local regulations and act responsibly.
         //  ██  \\
-       //   ██   \\         The following information is intended for educational purposes only.
-      //    ██    \\        Please make sure to double-check any entry against a trusted and updated
-     //            \\       authoritative source. The following information might not be accurate or
-    //      ██      \\      applicable to your region. Use it at your own risk and always in a
-   //                \\     lawful manner.
-  //==================\\                                                                 EA7RCT
+       //   ██   \\         This information is for educational purposes only.
+      //    ██    \\        Double-check every entry against reliable and
+     //            \\       up-to-date official sources. It may not be accurate
+    //      ██      \\      or applicable to your region. Use at your own risk
+   //                \\     and in accordance with the law.
+  //==================\\                                                  EA7RCT
 
          WARNING!
 ```
-
 
 | ! | Frequency     | Mode                   | Domain       | Alias   | Region         | Comment   |
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
@@ -44,21 +43,24 @@
 |   | 433.550 MHz   | FM                     | Amateur 70cm |         | International? | Not exclusive, only recommended |
 
 
-```
-         !: Usually well-monitored or active frequencies (!: a lot / *: somewhat).
+``` yaml
+       !/*: Usually well-monitored or active frequencies (!= a lot / *= somewhat).
  Frequency: Channel frequency or digital radio channel.
       Mode: Modulation, subtones, encoding, etc.
     Domain: Application domain or channel attribution.
      Alias: Common name of the frequency/channel.
     Region: Where the frequency is monitored.
    Comment: Any other relevant considerations.
-
+```
 
 Recommendations:
-* Memorize the emergency phone number of the area(s) you will be traveling. Outside the aeronautical
-  or maritime domain it is usually better to use your phone (if available).
-* State your location before your emergency. If communication breaks, its more important for
-  rescuers to know where to find you than to know what you need.
-* If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are well monitored, but
-  remember that they usually have different TX and RX frequencies and may also require a subtone.
-```
+
+- Memorize the emergency phone number of the area(s) you will be traveling.
+  Outside the aeronautical or maritime domain it is usually better to use your
+  phone (if available).
+- State your location before your emergency. If communication breaks, its more
+  important for rescuers to know where to find you than to know what you need.
+- If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are
+  well monitored, but remember that they usually have different TX and RX
+  frequencies and may also require a subtone.
+
