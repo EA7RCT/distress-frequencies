@@ -1,3 +1,7 @@
+# Distress Frequencies
+
+## Disclaimer
+
 ```
             /\              Depending on your location, transmitting or
            //\\             listening on some or all of these frequencies may
@@ -9,10 +13,12 @@
      //            \\       up-to-date official sources. It may not be accurate
     //      ██      \\      or applicable to your region. Use at your own risk
    //                \\     and in accordance with the law.
-  //==================\\                                                  EA7RCT
+  //==================\\                                                 EA7RCT
 
          WARNING!
 ```
+
+## Frequencies
 
 | ! | Frequency     | Mode                   | Domain       | Alias   | Region         | Comment   |
 | - | ------------- | ---------------------- | ------------ | ------- | -------------- | --------- |
@@ -44,7 +50,7 @@
 
 
 ``` yaml
-       !/*: Usually well-monitored or active frequencies (!= a lot / *= somewhat).
+       !/*: Usually well-monitored (!) or active (*) frequencies.
  Frequency: Channel frequency or digital radio channel.
       Mode: Modulation, subtones, encoding, etc.
     Domain: Application domain or channel attribution.
@@ -53,14 +59,21 @@
    Comment: Any other relevant considerations.
 ```
 
-Recommendations:
+## Recommendations
 
-- Memorize the emergency phone number of the area(s) you will be traveling.
-  Outside the aeronautical or maritime domain it is usually better to use your
-  phone (if available).
-- State your location before your emergency. If communication breaks, its more
-  important for rescuers to know where to find you than to know what you need.
-- If using 2m or 70cm Amateur Radio, lookup local repeaters in advance. They are
-  well monitored, but remember that they usually have different TX and RX
-  frequencies and may also require a subtone.
+- Phone first: Before traveling, memorize the local emergency phone number for
+  the areas you'll be in. Outside aviation or maritime environments, using your
+  phone is usually the fastest and most reliable option if available.
+- Location first, details later: When reporting an emergency, prioritize stating
+  your location clearly before giving specific details. Rescue efforts depend on
+  reaching your location quickly, even if communication breaks before you can
+  state your exact emergency.
+- If relying on 2m or 70cm Amateur Radio, research local repeaters beforehand.
+  These are actively monitored but remember:
+    - They often have different transmit and receive frequencies.
+    - They may require a subtone for access.
+
+## Contribute
+
+Feel free to pull request new frequencies or correct any mistake you spot.
 
